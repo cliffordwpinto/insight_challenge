@@ -22,7 +22,7 @@ public static void main(String[] args)throws IOException {
 	//Path currentRelativePath = Paths.get("");
 	//String s = currentRelativePath.toAbsolutePath().toString();
 	//System.out.println("Current relative path is: " + s);
-
+//
 	try{
 		BufferedReader br = new BufferedReader(new FileReader("stream_payment.csv")); 
 		 //BufferedReader br = new BufferedReader(new FileReader("ExcelSource.csv"));
